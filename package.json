@@ -1,16 +1,17 @@
 {
-	"name": "NodejsStarterApp",
+	"name": "InsightsApp",
 	"version": "0.0.1",
-	"private": true,
+	"description": "Inights App on Bluemix",
 	"scripts": {
 		"start": "node app.js"
 	},
 	"dependencies": {
-		"express": "4.13.x",
-		"cfenv": "1.0.x"
+		"express": "4.12.x",
+		"cfenv": "1.0.x",
+		"body-parser": "*"
 	},
 	"repository": {},
 	"engines": {
-		"node": "4.x"
+		"node": "0.12.x"
 	} 
 }

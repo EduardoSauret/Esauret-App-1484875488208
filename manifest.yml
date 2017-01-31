@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: Esauret App
-  host: Esauret-App
+  name: Insights App
+  host: insights-app
   disk_quota: 1024M
